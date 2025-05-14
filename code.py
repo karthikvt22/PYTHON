@@ -7,7 +7,7 @@ from datetime import datetime
 import os
 
 class TerraformCourseTracker:
-    def __init__(self, filename="terraform_tracker.json"):
+    def __init__(self,filename="terraform_tracker.json"):
         self.filename = filename
         self.sections = []
         if os.path.exists(filename):
