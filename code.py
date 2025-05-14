@@ -1,6 +1,6 @@
 # Terraform Course Tracker 🛠️
 # Author: Karthik V T
-# Description: Python project to track progress of Terraform one-shot video course.
+# Description:Python project to track progress of Terraform one-shot video course.
 
 import json
 from datetime import datetime
