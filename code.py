@@ -101,7 +101,7 @@ class TerraformCourseTracker:
                 print(" Exiting. Happy learning!")
                 break
             else:
-                print(" Invalid choice. Please try again.")
+                print(" Invalid choice.Please try again.")
 
 if __name__ == "__main__":
     tracker = TerraformCourseTracker()
